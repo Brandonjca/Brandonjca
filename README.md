@@ -6,7 +6,7 @@
 * ⏲️ In my free time I like to play video games and do sports, mainly at the gym.
 
   <details>
-  <summary>Mas sobre mi</summary>
+  <summary>More about me</summary>
 
   ## My programming technologies are:
     
