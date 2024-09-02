@@ -7,13 +7,13 @@
 
   ## My programming technologies are:
     ### Front-end:
-    * React-Native
-    * React
-    * TypeScript
+      * React-Native
+      * React
+      * TypeScript
     ### Back-end:
-    * Spring Boot
+      * Spring Boot
     ### BDD
-    * PostgresSQL 
+      * PostgresSQL 
   
 
 <!--
