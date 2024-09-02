@@ -5,7 +5,11 @@
 * 💻 I am a software developer
 * ⏲️ In my free time I like to play video games and do sports, mainly at the gym.
 
-  ## My programming technologies are:
+  <details>
+  <sumary>
+  ## My programming technologies are:  
+  </sumary>
+    
     ### Front-end:
       * React-Native
       * React
@@ -14,7 +18,9 @@
       * Spring Boot
     ### BDD
       * PostgresSQL 
-  
+  </details>
+  - [ ] Software
+  - [x] Travel  
 
 <!--
 **Brandonjca/Brandonjca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
