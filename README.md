@@ -1,4 +1,11 @@
-## Hello world 👋
+## Hi everyone! 🫡
+
+* 👨‍💻 I'm Brandon Caranqui @jcbrandon9
+* 🇪🇨  I live in Ecuador
+* 💻 I am a software developer
+* 🗺️ My programming technologies are: TypeScript, React Native, React
+* ⏲️ In my free time I like to play video games and do sports, mainly at the gym.
+  
 
 <!--
 **Brandonjca/Brandonjca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
